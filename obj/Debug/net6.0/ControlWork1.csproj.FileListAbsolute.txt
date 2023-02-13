@@ -1,0 +1,15 @@
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/bin/Debug/net6.0/ControlWork1
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/bin/Debug/net6.0/ControlWork1.deps.json
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/bin/Debug/net6.0/ControlWork1.runtimeconfig.json
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/bin/Debug/net6.0/ControlWork1.dll
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/bin/Debug/net6.0/ref/ControlWork1.dll
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/bin/Debug/net6.0/ControlWork1.pdb
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.csproj.AssemblyReference.cache
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.AssemblyInfoInputs.cache
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.AssemblyInfo.cs
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.csproj.CoreCompileInputs.cache
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.dll
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ref/ControlWork1.dll
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.pdb
+/home/sergej/gitHUB-good/gitHUB-good/ControlWork1/obj/Debug/net6.0/ControlWork1.genruntimeconfig.cache
